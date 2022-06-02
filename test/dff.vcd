@@ -1,0 +1,84 @@
+$date
+	Fri Apr 08 14:31:45 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module dff_testbench $end
+$var wire 1 ! out $end
+$var reg 1 " clk $end
+$var reg 1 # d $end
+$var reg 1 $ rst $end
+$scope module DUT $end
+$var wire 1 " clk $end
+$var wire 1 # d $end
+$var wire 1 $ rst $end
+$var reg 1 ! out $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0$
+0#
+0"
+0!
+$end
+#10000
+1"
+#20000
+0"
+#30000
+1"
+#40000
+0"
+1#
+#50000
+1"
+#60000
+0"
+0#
+#70000
+1"
+#80000
+0"
+1#
+#90000
+1"
+#100000
+0"
+0#
+1$
+#110000
+1"
+#120000
+0"
+1#
+#130000
+1!
+1"
+#140000
+0"
+0#
+#150000
+0!
+1"
+#160000
+0"
+1#
+#170000
+1!
+1"
+#180000
+0"
+0#
+#190000
+0!
+1"
+#200000
+0"
+1#
+0$
